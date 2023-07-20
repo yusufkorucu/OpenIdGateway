@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIdGateway.API", "OpenIdGateway.API\OpenIdGateway.API.csproj", "{982A0B46-4D5B-4F89-BED7-61B33E649CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIdGateway.Domain", "OpenIdGateway.Domain\OpenIdGateway.Domain.csproj", "{19E82A75-EF4F-40AA-A303-E70AE6510E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIdGateway.Core", "OpenIdGateway.Core\OpenIdGateway.Core.csproj", "{6444367C-3F3D-453A-A68C-C7660756D19E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{982A0B46-4D5B-4F89-BED7-61B33E649CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982A0B46-4D5B-4F89-BED7-61B33E649CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982A0B46-4D5B-4F89-BED7-61B33E649CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982A0B46-4D5B-4F89-BED7-61B33E649CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E82A75-EF4F-40AA-A303-E70AE6510E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E82A75-EF4F-40AA-A303-E70AE6510E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E82A75-EF4F-40AA-A303-E70AE6510E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E82A75-EF4F-40AA-A303-E70AE6510E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6444367C-3F3D-453A-A68C-C7660756D19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6444367C-3F3D-453A-A68C-C7660756D19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6444367C-3F3D-453A-A68C-C7660756D19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6444367C-3F3D-453A-A68C-C7660756D19E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245C90A9-722D-40EA-970C-CEE067A85328}
+	EndGlobalSection
+EndGlobal
